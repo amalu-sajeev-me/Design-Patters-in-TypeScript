@@ -1,0 +1,25 @@
+{
+  "name": "Design-Patters-in-TypeScript",
+  "version": "1.0.0",
+  "description": "Write cleaner code and enhance your development skills with TypeScript design patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amalu-sajeev-me/Design-Patters-in-TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amalu-sajeev-me/Design-Patters-in-TypeScript/issues"
+  },
+  "homepage": "https://github.com/amalu-sajeev-me/Design-Patters-in-TypeScript#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1",
+    "tsc": "^2.0.4"
+  }
+}
